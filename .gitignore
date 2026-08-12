@@ -5,7 +5,9 @@ __pycache__/
 cellpose_training/
 # C extensions
 *.so
-
+gfp_rollingball/
+gfp_rollingball/
+models/
 # Distribution / packaging
 .Python
 build/
