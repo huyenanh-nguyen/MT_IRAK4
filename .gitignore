@@ -8,6 +8,7 @@ cellpose_training/
 gfp_rollingball/
 gfp_rollingball/
 models/
+/images
 # Distribution / packaging
 .Python
 build/
